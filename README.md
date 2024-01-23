@@ -6,6 +6,7 @@
 # 装载
 
 // 番茄钟 APP
+
 #define APP_TOMATO_USE 1
 
 #if APP_TOMATO_USE
@@ -16,7 +17,7 @@
 
 #if APP_TOMATO_USE
 
-    app_controller->app_install(&tomato_app);
+app_controller->app_install(&tomato_app);
     
 #endif
 
