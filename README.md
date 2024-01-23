@@ -4,8 +4,7 @@
 本项目基于的代码 https://github.com/ClimbSnail/HoloCubic_AIO
 # 原作者
 kylefjl
-# 原项目链接
-https://github.com/kylefjl/HoloCubic_AIO_TOMATO
+原项目链接：https://github.com/kylefjl/HoloCubic_AIO_TOMATO
 # 更新内容
 界面类
 
