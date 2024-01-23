@@ -2,6 +2,19 @@
 透明小电视番茄时钟2.0
 
 本项目基于的代码 https://github.com/ClimbSnail/HoloCubic_AIO
+
+# 装载
+
+// 番茄钟 APP
+#define APP_TOMATO_USE 1
+#if APP_TOMATO_USE
+#include "app/tomato/tomato.h"
+#endif
+
+#if APP_TOMATO_USE
+    app_controller->app_install(&tomato_app);
+#endif
+
 # 原作者
 kylefjl
 
