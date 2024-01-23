@@ -10,7 +10,6 @@ kylefjl
 # 界面类
 
 1、增加“专注/休息中.....”运行动画
-![屏幕截图 2024-01-23 184940](https://github.com/Lingjia007/HoloCubic_Tomato_Clock_V2.0/assets/138684736/0ad21929-6643-468b-9bfc-fb4f651f35f0)
 
 2、增加毛玻璃效果
 
