@@ -1,4 +1,4 @@
-# Holocubic_Tomato_Clock_V2.0
+# HoloCubic_Tomato_Clock_V2.0
 透明小电视番茄时钟2.0
 
 本项目基于的代码 https://github.com/ClimbSnail/HoloCubic_AIO
